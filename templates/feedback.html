@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Page</title>
+</head>
+<body>
+    <h1>Feedback Form</h1>
+    <form id="submit_feedback">
+        <div>
+            <label for="question1">Question 1: How satisfied are you with our service?</label><br>
+            <select id="question1" name="question1">
+                <option value="very_satisfied">Very Satisfied</option>
+                <option value="satisfied">Satisfied</option>
+                <option value="neutral">Neutral</option>
+                <option value="dissatisfied">Dissatisfied</option>
+                <option value="very_dissatisfied">Very Dissatisfied</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="question2">Question 2: How likely are you to recommend our service to others?</label><br>
+            <select id="question2" name="question2">
+                <option value="very_likely">Very Likely</option>
+                <option value="likely">Likely</option>
+                <option value="neutral">Neutral</option>
+                <option value="unlikely">Unlikely</option>
+                <option value="very_unlikely">Very Unlikely</option>
+            </select>
+        </div>
+        <br>
+        <button type="submit" onclick="return confirm('Thank You for your Feedback');">Submit Feedback</button>
+    </form>
+</body>
+</html>

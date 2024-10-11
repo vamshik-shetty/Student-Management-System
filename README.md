@@ -50,3 +50,5 @@ The **Student Management System** successfully automates administrative tasks su
 - **AI and ML Integration:** Incorporating AI and machine learning features to analyze student performance and provide insights.
 - **Biometric Integration:** Adding biometric attendance features for enhanced security.
 - **Cloud Integration:** Moving the system to a cloud-based architecture for better scalability and data accessibility.
+
+---

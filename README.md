@@ -28,7 +28,7 @@ The **Student Management System** is a software application developed to manage 
 - **Schema Diagram:** Depicts how the tables are structured in the database.
 
 
-| ![ER Diagram](assets/er.png)    | ![Schema Diagram](assets/schema.png) |
+| ![ER Diagram](assets/e.png)    | ![Schema Diagram](assets/schema.png) |
 |:-----------------------------------------------:|:---------------------------------------------------:|
 | **ER Diagram**                                  | **Schema Diagram**                                  |
 
